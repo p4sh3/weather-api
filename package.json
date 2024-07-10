@@ -1,10 +1,9 @@
 {
   "name": "server_map_clima",
   "version": "1.0.0",
-  "main": "index.js",
+  "main": "server.js",
   "type": "module",
   "scripts": {
-    "build": "npm --prefix public run build",
     "start": "node server.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
