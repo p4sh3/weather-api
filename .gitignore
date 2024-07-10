@@ -1,3 +1,6 @@
+# static files
+./public/.env
+./public/dist
 # Logs
 logs
 *.log
